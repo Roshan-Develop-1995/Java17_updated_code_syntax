@@ -13,6 +13,7 @@ public class SwitchCaseExample {
         default -> 20;
     };*/
 
+
     //Example
     public static void main(String[] args) {
         int variable = 1;

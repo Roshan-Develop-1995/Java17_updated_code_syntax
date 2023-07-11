@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03e640f-9bb6-4298-805b-17620c0d98f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwitchCaseExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="c03e640f-9bb6-4298-805b-17620c0d98f6" name="Changes" comment="Initial Commit - switch case updated syntax" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1689052673614</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit - switch case updated syntax">
+      <created>1689053230196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689053230196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit - switch case updated syntax">
+      <created>1689053321198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689053321198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit - switch case updated syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit - switch case updated syntax" />
   </component>
 </project>
