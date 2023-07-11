@@ -25,7 +25,6 @@ public class SwitchCaseExample {
             }
             default -> 20;
         };
-
-        System.out.println("result: "+result);
+        System.out.println("Result: "+result);
     }
 }
